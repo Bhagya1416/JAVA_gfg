@@ -21,6 +21,15 @@ Only important and challenging problems are pushed to GitHub to reflect real lea
 
 _____
 
+This repository serves as:
+- A personal learning log
+- A revision resource
+- A proof of consistent Java practice
+
+The goal is not quantity, but "quality and understanding".
+
+_____
+
 Progress
 
 This repository is actively updated as I continue learning and improving my Java problem-solving skills.
